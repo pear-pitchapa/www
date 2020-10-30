@@ -3,18 +3,18 @@
         <title>Hello world</title>
     </head>
     <body>
-        <h1>The Cat</h1>
+        <h1>Me</h1>
         <p>My name is Pitchapa Monvisade</p>
         <img src="cat.jpg">
         <img src="cat1.jpg">
         <br>
         <a href "http://www.it.kmitl.ac.th">this is Link</a>
 
-        <h2>The unordered list</h2>
+        <h2>Funny story</h2>
         <ul>
-            <li>Google</li>
-            <li>Yahoo</li>
-            <li>Amazon</li>
+            <li>I don't have</li>
+            <li>Sorry</li>
+         
         </ul>
 
     </body>
