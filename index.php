@@ -6,6 +6,7 @@
         <h1>The Cat</h1>
         <p>Kitten</p>
         <img src="cat.jpg">
+        <img src="cat1.jpg">
         <br>
         <a href "http://www.it.kmitl.ac.th">this is Link</a>
 
