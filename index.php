@@ -4,7 +4,7 @@
     </head>
     <body>
         <h1>The Cat</h1>
-        <p>Kitten</p>
+        <p>My name is Pitchapa Monvisade</p>
         <img src="cat.jpg">
         <img src="cat1.jpg">
         <br>
